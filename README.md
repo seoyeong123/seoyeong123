@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 (since Mar, 19, 2024)
 
 <!--
 **seoyeong123/seoyeong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
